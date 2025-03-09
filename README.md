@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Peter Atta Okpeh
-- 👀 I’m interested in Devops (AWS and Azure)
-- 🌱 I’m currently learning Devops services on AWS 
+- 👀 I’m interested in AI, ML and Devops (AWS and Azure)
 - 💞️ I’m looking to collaborate on Any AWS Devops project
 - 📫 How to reach me redefiningatta@gmail.com
 - 😄 Pronouns: He/Him
