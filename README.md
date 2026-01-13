@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Peter Atta Okpeh
 - 👀 I’m interested in AI,  Product Analytics, Analytics Engineering
-- 💞️ I’m looking to collaborate on Any AWS Devops project
 - 📫 How to reach me redefiningatta@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: additicted to learning new stuffs
